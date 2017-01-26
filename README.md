@@ -1,2 +1,2 @@
-# my-new-repo
+# my new repo
 Learning Github
